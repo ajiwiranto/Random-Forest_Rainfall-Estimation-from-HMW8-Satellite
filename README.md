@@ -1,5 +1,5 @@
 # Random-Forest_Rainfall-Estimation-from-HMW8-Satellite
-rainfall estimation from satellite himawari-8 Multiband data using random forest
+Rainfall estimation from satellite himawari-8 Multiband data using random forest
 
 Model Random Forest Machine Learning
 
